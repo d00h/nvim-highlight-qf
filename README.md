@@ -1,7 +1,18 @@
 # nvim-highlight-qf
 
+Display QuickFix as VirtualText
+
+![screenshot](img/example-01.jpg)
+
+# Commands 
 
 
+```
+HighlightQF enable
+HighlightQF disable 
+HighlightQF toggle 
+HighlightQF refresh 
+```
 
 # PythonProfile
 
